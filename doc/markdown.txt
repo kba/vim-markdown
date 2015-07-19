@@ -14,12 +14,35 @@ License:    MIT | http://mit-license.org/gabrielelana
 ==============================================================================
 Create Markdown files with syntax highlighting that doesn't suck    *markdown*
 
-    1. Intro.................................|markdown-intro|
-    2. Mappings..............................|markdown-maps|
-    3. Contributing..........................|markdown-contrib|
+    1. Intro ............................... |markdown-intro|
+    2. Features ............................ |markdown-features|
+    3. Github Flavored Markdown ............ |markdown-gfm|
+    4. Editing Fenced Codeblocks ........... |markdown-fenced|
+    5. Formatting Tables ................... |markdown-tables|
+    6. Jekyll support ...................... |markdown-tables|
+    7. Folding Markdown sections ........... |markdown-folding|
+    8. Mappings............................. |markdown-maps|
+    9. Contributing......................... |markdown-contrib|
 
 ==============================================================================
 1. Intro                                                      *markdown-intro*
+
+I wanted a strong support for the Markdown flavor implemented by Github, I
+wanted a syntax highlight that would mirror the result I would find later on
+Github, I wanted a syntax highlight that would not break easily, I wanted a
+syntax highlight that I could rely on (aka rapid feedback), I wanted something
+more that a mere syntax highlight. The Markdown Syntax unfortunately it's so
+loosely defined that there are flavors of Markdown that are subtly
+incompatible from each other, the Markdown supported by Github is one of them.
+
+==============================================================================
+2. Github Flavored Markdown (GFM)                            *markdown-syntax*
+
+\*bold\*
+/italic/
+
+==============================================================================
+2. Github Flavored Markdown (GFM)                               *markdown-gfm*
 
 
 ==============================================================================
