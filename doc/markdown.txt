@@ -1,5 +1,10 @@
 *markdown.txt*   A complete environment to create Markdown files 
-
+       _                                      _       _                      ~
+__   _(_)_ __ ___        _ __ ___   __ _ _ __| | ____| | _____      ___ __   ~
+\ \ / / | '_ ` _ \ _____| '_ ` _ \ / _` | '__| |/ / _` |/ _ \ \ /\ / / '_ \  ~
+ \ V /| | | | | | |_____| | | | | | (_| | |  |   < (_| | (_) \ V  V /| | | | ~
+  \_/ |_|_| |_| |_|     |_| |_| |_|\__,_|_|  |_|\_\__,_|\___/ \_/\_/ |_| |_| ~
+ 
 Author:     Gabriele Lana | <gabriele.lana@gmail.com>
 License:    MIT | http://mit-license.org/gabrielelana
 
