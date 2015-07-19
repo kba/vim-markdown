@@ -1,0 +1,31 @@
+*markdown.txt*   A complete environment to create Markdown files 
+
+Author:     Gabriele Lana | <gabriele.lana@gmail.com>
+License:    MIT | http://mit-license.org/gabrielelana
+
+
+                              Reference manual~
+
+==============================================================================
+Create Markdown files with syntax highlighting that doesn't suck    *markdown*
+
+    1. Intro.................................|markdown-intro|
+    2. Mappings..............................|markdown-maps|
+    3. Contributing..........................|markdown-contrib|
+
+==============================================================================
+1. Intro                                                      *markdown-intro*
+
+
+==============================================================================
+2. Mappings                                                    *markdown-maps*
+
+
+==============================================================================
+3. Contributing                                             *markdown-contrib*
+
+Don't hesitate to create a new GitHub Issue for any bug or suggestion:
+
+https://github.com/gabrielelana/vim-markdown/issues
+
+vim:tw=78:et:ft=help:norl:
